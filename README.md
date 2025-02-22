@@ -4,7 +4,9 @@
 
 URL: http://localhost:5000/api/auth/register Body (JSON, raw)
 
-{ "name": "beibab", "email": "beibab@example.com", "password": "123456" }
+{ "username": "beibab", "email": "beibab@example.com", "password": "123456" }
+
+
 
 2. Авторизация
 Отправь POST-запрос
